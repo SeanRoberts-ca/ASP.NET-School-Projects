@@ -1,0 +1,242 @@
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.exe
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.deps.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ref\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Assignment03.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Humanizer.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.csproj.AssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.csproj.CopyComplete
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\ref\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\obj\Debug\net5.0\Assignment03.genruntimeconfig.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\TraceReloggerLib.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Dia2Lib.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\OSExtensions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\x86\KernelTraceControl.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\x86\KernelTraceControl.Win61.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\x86\msdia140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\x86\msvcp140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\x86\vcruntime140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\amd64\KernelTraceControl.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\amd64\msdia140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\amd64\msvcp140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\amd64\vcruntime140.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\amd64\vcruntime140_1.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\BenchmarkDotNet.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\BenchmarkDotNet.Annotations.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\CommandLine.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Iced.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Diagnostics.Runtime.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\Perfolizer.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\System.Management.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Assignment03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\x86\KernelTraceControl.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\x86\KernelTraceControl.Win61.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\x86\msdia140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\x86\msvcp140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\x86\vcruntime140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\amd64\KernelTraceControl.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\amd64\msdia140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\amd64\msvcp140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\amd64\vcruntime140.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\amd64\vcruntime140_1.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\TraceReloggerLib.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Dia2Lib.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\OSExtensions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.exe
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.deps.json
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ref\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Assignment03.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\BenchmarkDotNet.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\BenchmarkDotNet.Annotations.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\CommandLine.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Humanizer.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Iced.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Diagnostics.Runtime.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\Perfolizer.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Management.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.csproj.AssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.csproj.CopyComplete
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\ref\Assignment03.dll
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.pdb
+C:\Users\seanr\OneDrive\Desktop\reposWithNewNames\NorthwindContextDbContext\obj\Debug\net5.0\Assignment03.genruntimeconfig.cache

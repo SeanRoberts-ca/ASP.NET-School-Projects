@@ -1,0 +1,16 @@
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.exe
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.deps.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\ref\BigIntegerExtended.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\bin\Debug\net5.0\BigIntegerExtended.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.csproj.AssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\ref\BigIntegerExtended.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\BigIntegerExtended\obj\Debug\net5.0\BigIntegerExtended.genruntimeconfig.cache

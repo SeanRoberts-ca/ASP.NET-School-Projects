@@ -1,0 +1,16 @@
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.exe
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.deps.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\ref\Shape.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\bin\Debug\net5.0\Shape.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.csprojAssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\ref\Shape.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache

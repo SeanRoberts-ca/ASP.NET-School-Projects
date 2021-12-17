@@ -1,0 +1,16 @@
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.exe
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.deps.json
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.runtimeconfig.json
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.runtimeconfig.dev.json
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.dll
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ref\ExploringNumericTypesPractice.dll
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\bin\Debug\net5.0\ExploringNumericTypesPractice.pdb
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.csprojAssemblyReference.cache
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.AssemblyInfoInputs.cache
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.AssemblyInfo.cs
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.csproj.CoreCompileInputs.cache
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.dll
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ref\ExploringNumericTypesPractice.dll
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.pdb
+C:\Users\seanr\source\repos\ExploringNumericTypesPractice\obj\Debug\net5.0\ExploringNumericTypesPractice.genruntimeconfig.cache

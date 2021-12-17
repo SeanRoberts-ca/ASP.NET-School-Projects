@@ -1,0 +1,4 @@
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Zoo\obj\Debug\net5.0\ZooLogInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Zoo\obj\Debug\net5.0\ZooLogInterface.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Zoo\obj\Debug\net5.0\ZooLogInterface.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\Zoo\obj\Debug\net5.0\ZooLogInterface.csproj.CoreCompileInputs.cache

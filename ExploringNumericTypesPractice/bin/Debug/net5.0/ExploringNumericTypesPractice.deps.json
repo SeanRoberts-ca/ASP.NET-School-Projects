@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExploringNumericTypesPractice/1.0.0": {
+        "runtime": {
+          "ExploringNumericTypesPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExploringNumericTypesPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.exe
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.deps.json
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.json
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.dev.json
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.dll
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\ref\PrimeFactors.dll
+C:\Users\seanr\source\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.pdb
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csprojAssemblyReference.cache
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfo.cs
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.dll
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\ref\PrimeFactors.dll
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.pdb
+C:\Users\seanr\source\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.genruntimeconfig.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.exe
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.deps.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\ref\PrimeFactors.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\bin\Debug\net5.0\PrimeFactors.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csprojAssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\ref\PrimeFactors.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\PrimeFactors\obj\Debug\net5.0\PrimeFactors.genruntimeconfig.cache

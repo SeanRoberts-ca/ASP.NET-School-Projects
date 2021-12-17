@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHQZS/+5R62GNik8WDWcg1jyNHy0lOHQnXVECx/NYf1KBrV94tztgj143SpgMg6bQ1AYarl5Y+ovF+pqTeuX3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seanr\\OneDrive\\Desktop\\Study Reference\\repos\\JSONToXML\\JSONToXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seanr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

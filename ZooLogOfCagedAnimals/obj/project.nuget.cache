@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "68G28aMlxK5EfApwr6AX8zxc+EYedY+7Z41riTUfiXV+0Vu1ejjwh1GSOUAhwD+pDQ81njOjs6x43iEaJx89NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seanr\\OneDrive\\Desktop\\reposWithNewNames\\ZooLogOfCagedAnimals\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\seanr\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

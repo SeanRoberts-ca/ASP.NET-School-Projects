@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Student>
+
+<h2>Student View</h2>
+<p>
+    <a asp-action="Create">Create New Student</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col" style="white-space: nowrap;">Student Id</th>
+            <th scope="col" style="white-space: nowrap;">First Name</th>
+            <th scope="col" style="white-space: nowrap;">Last Name</th>
+            <th scope="col" style="white-space: nowrap;">Phone Number</th>
+            <th scope="col" style="white-space: nowrap;">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td>@v.StudentId</td>
+                <td>@v.FirstName</td>
+                <td>@v.LastName</td>
+                <td>@v.PhoneNumber</td>
+                <td>@v.Email</td>
+            </tr>
+        }
+    <tbody>
+</table>

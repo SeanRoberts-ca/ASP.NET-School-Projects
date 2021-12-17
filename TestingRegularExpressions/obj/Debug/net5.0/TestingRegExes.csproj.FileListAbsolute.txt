@@ -1,0 +1,16 @@
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.exe
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.deps.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.runtimeconfig.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.runtimeconfig.dev.json
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\ref\TestingRegExes.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\bin\Debug\net5.0\TestingRegExes.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.csproj.AssemblyReference.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.AssemblyInfoInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.AssemblyInfo.cs
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.csproj.CoreCompileInputs.cache
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\ref\TestingRegExes.dll
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.pdb
+C:\Users\seanr\OneDrive\Desktop\Study Reference\repos\TestingRegExes\obj\Debug\net5.0\TestingRegExes.genruntimeconfig.cache

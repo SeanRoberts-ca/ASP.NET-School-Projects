@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CourseStudent>
+
+<h2>CourseStudent View</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">CourseIdjq</th>
+            <th scope="col">StudentIdjq</th>
+            <th scope="col">FirstNamejq</th>
+            <th scope="col">LastNamejq</th>
+            <th scope="col">Emailjq</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in Model)
+        {
+        <tr>
+            <td>@v.CourseIdjq</td>
+            <td>@v.StudentIdjq</td>
+            <td>@v.FirstNamejq</td>
+            <td>@v.LastNamejq</td>
+            <td>@v.Emailjq</td>
+        </tr>
+        }
+    <tbody>
+</table>
